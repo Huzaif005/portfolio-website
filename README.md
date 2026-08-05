@@ -8,7 +8,7 @@ This project demonstrates the use of **Ridge (L2)** and **Lasso (L1)** regulariz
 
 ## Dataset
 
-* **Wine Dataset** (Scikit-learn)
+* **Wine Dataset** ("https://github.com/shrikant-temburwar/Wine-Quality-Dataset/blob/master/winequality-red.csv") 
 * **178 samples**
 * **13 features**
 * **3 target classes**
